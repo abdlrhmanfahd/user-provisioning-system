@@ -64,6 +64,10 @@ This script reads each line from `employee.csv`, checks if the user exists, and 
 
 > Here's a step-by-step visual walk-through of the scripts in action.
 
+### Work-Flow Diagram
+
+![Work-Flow Diagram](diagram.png)
+
 ### 1. Add user data to CSV
 
 ![Add Users](screenshots/01-adding-users.png)
